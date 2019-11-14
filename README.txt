@@ -1,0 +1,1 @@
+find_ubuntu.py: searches nmap xml output files for Ubuntu hosts based on ssh signature; outputs the host's IP address.
